@@ -7,11 +7,11 @@
 - Social media data mining and analysis for various social activism projects on the side (python)
   
 🌱 I’m currently learning
-- R on DataCamp. Python is next on the list!
+- R on [DataCamp](https://www.datacamp.com/portfolio/isabelmdrummond). Going to strengthen my Python skills next!
   
 👯 I’m looking to collaborate on
 - Using data for social and environmental action and mutual aid projects.
   
 📫 How to reach me: 
-- email, isabelmdrummond@gmail.com
-- my portfolio site, isabeldrummond.ca
+- [Email](isabelmdrummond@gmail.com)
+- [My portfolio site](isabeldrummond.ca)
