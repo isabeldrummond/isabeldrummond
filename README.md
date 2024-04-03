@@ -3,8 +3,8 @@
 
 
 🔭 I’m currently working on 
-- Building my new portfolio site (html & css)
-- Social media data mining and analysis for various social activism projects on the side (python)
+- Building my new portfolio site.
+- Freelance data scientist on the side! Interest in social media data mining and analysis for various social activism projects.
   
 🌱 I’m currently learning
 - R on [DataCamp](https://www.datacamp.com/portfolio/isabelmdrummond). Going to strengthen my Python skills next!
