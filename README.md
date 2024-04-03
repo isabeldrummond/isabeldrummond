@@ -10,7 +10,10 @@
 - R on [DataCamp](https://www.datacamp.com/portfolio/isabelmdrummond). Going to strengthen my Python skills next!
   
 👯 I’m looking to collaborate on
-- Using data for social and environmental action and mutual aid projects.
+- Using data for community and environmental action and mutual aid projects.
+  - Making data accessible.
+  - Mining and analysis to help you reach your goals.
+- Experimental geography research methodologies.
   
 📫 How to reach me: 
 - [Email](isabelmdrummond@gmail.com)
