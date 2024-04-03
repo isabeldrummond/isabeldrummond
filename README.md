@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on 
 - Building my new portfolio site.
-- Freelance data scientist on the side! Interest in social media data mining and analysis for various social activism projects.
+- Freelance data scientist on the side! Mostly social media data mining and analysis for various social activism projects.
   
 🌱 I’m currently learning
 - R on [DataCamp](https://www.datacamp.com/portfolio/isabelmdrummond). Going to strengthen my Python skills next!
