@@ -1,16 +1,13 @@
 ### Hi there 👋
+## I'm Isabel!
 
-<!--
-**isabeldrummond/isabeldrummond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on 
+- building my new portfolio site (html & css)
+- data mining work for social activism projects on the side (python)
+- 
+✨ Upcoming project: MSc in Carbon governance! Thesis and research subjects to be established soon!
+🌱 I’m currently learning R on DataCamp. Python is next on the list!
+👯 I’m looking to collaborate on using data for community wellbeing and knowledge and environmental work 
+📫 How to reach me:
+- isabelmdrummond@gmail.com
+- my portfolio site, isabeldrummond.ca
