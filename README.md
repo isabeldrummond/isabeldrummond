@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on 
 - Building my new portfolio site.
-- Freelance data scientist side hustle diaries
+- Freelance data scientist side hustle diaries:
   - Social media data mining and investigative analysis for a community activism project.
   
 🌱 I’m currently learning
