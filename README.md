@@ -1,13 +1,17 @@
-### Hi there 👋
-## I'm Isabel!
+# Hi, I'm Isabel 👋 
+***September 2024 incoming MSc Carbon Governance student. Thesis and research activity tbd!***
+
 
 🔭 I’m currently working on 
-- building my new portfolio site (html & css)
-- data mining work for social activism projects on the side (python)
-- 
-✨ Upcoming project: MSc in Carbon governance! Thesis and research subjects to be established soon!
-🌱 I’m currently learning R on DataCamp. Python is next on the list!
-👯 I’m looking to collaborate on using data for community wellbeing and knowledge and environmental work 
-📫 How to reach me:
-- isabelmdrummond@gmail.com
+- Building my new portfolio site (html & css)
+- Social media data mining and analysis for various social activism projects on the side (python)
+  
+🌱 I’m currently learning
+- R on DataCamp. Python is next on the list!
+  
+👯 I’m looking to collaborate on
+- Using data for social and environmental action and mutual aid projects.
+  
+📫 How to reach me: 
+- email, isabelmdrummond@gmail.com
 - my portfolio site, isabeldrummond.ca
