@@ -1,5 +1,5 @@
 # Hi, I'm Isabel 👋 
-***September 2024 incoming MSc Carbon Governance student. Thesis and research activity tbd!***
+***September 2024 incoming MSc Carbon Governance student.***
 
 
 🌞 I’m currently working on 
