@@ -3,12 +3,13 @@
 
 
 🌞 I’m currently working on 
+- Climate Change AI Summer School
 - Building my new [portfolio site.](https://isabeldrummond.ca/)
 - Freelance data scientist side hustle diaries:
   - Social media data mining and investigative analysis for a community activism project.
   
 🌱 I’m currently learning
-- R on [DataCamp](https://www.datacamp.com/portfolio/isabelmdrummond). Going to strengthen my Python skills next!
+- R and Python on [DataCamp](https://www.datacamp.com/portfolio/isabelmdrummond).
   
 💭 I’m looking to collaborate on
 - Using data for community and environmental action and mutual aid projects.
