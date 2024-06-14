@@ -3,7 +3,7 @@
 
 
 🌞 I’m currently working on 
-- Climate Change AI Summer School
+- [Climate Change AI Summer School](https://www.climatechange.ai/events/summer_school2024#in-person-summer-school)
 - Building my new [portfolio site.](https://isabeldrummond.ca/)
 - Freelance data scientist side hustle diaries:
   - Social media data mining and investigative analysis for a community activism project.
