@@ -1,5 +1,5 @@
 # Hi, I'm Isabel 👋 
-***September 2024 incoming MSc Geography student.***
+***MSc Geography student***
 
 
 🌞 I’m currently working on 
