@@ -20,4 +20,4 @@
   - Data resolution for community / state scale indexing
 - Community and environmental action & mutual aid projects.
   - Making data accessible = mining + analysis + science communication
-- Alway interested in weird and experimental geography research methodologies!
+- Alwaye interested in weird and experimental geography research methodologies!
