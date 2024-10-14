@@ -3,21 +3,16 @@
 
 
 ### 🌞 I’m currently working on 
-- [Climate Change AI Summer School](https://www.climatechange.ai/events/summer_school2024#in-person-summer-school)
-  - Developing a webapp tool that leverages big data for climate adaptation policy. [Prototype available here!](https://ccai-vulnerability-index.streamlit.app/)
+- Developing a webapp for book and movie clubs
+  - allowing nominations/voting/and scheduling components on private servers
 - Building my new [portfolio site.](https://isabeldrummond.ca/)
-- Freelance data scientist side hustle diaries:
-  - Social media data mining and investigative analysis for a community activism project.
+- Developing a webapp tool that leverages big data for climate adaptation policy. [Prototype available here!](https://ccai-vulnerability-index.streamlit.app/)
+
   
 ### 🌱 I’m currently learning
-- Playing around with Obsidian
-- Applications of AI to climate action
-- [See my DataCamp](https://www.datacamp.com/portfolio/isabelmdrummond).
+- Playing around with Obsidian and workflow methods for efficient and detailed literature reviews
   
 ### 💭 I’m looking to collaborate on
-- Decarbonization pathways and initiatives
-  - Actively looking for lab partnerships
-  - Would love to chat or share resources
 - Climate vulnerability indexing on a global scale:
   - AI ethical assessments
   - Data resolution for community / state scale indexing
