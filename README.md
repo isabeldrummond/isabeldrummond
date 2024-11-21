@@ -4,7 +4,7 @@ I'm interested in knowledge management and platforms for efficient workflow syst
 
 
 ### 🌞 What I do here
-- Playing around with Obsidian/Zotero/Notion and workflow methods for efficient and detailed literature reviews
+- Playing around with Obsidian/Zotero/Notion plugins and workflow methods for efficient and detailed literature reviews
 - Developing a webapp for book and movie clubs
   - allowing nominations/voting/and scheduling components on private & authentificated servers
 - Building my new [portfolio site.](https://isabeldrummond.ca/)
